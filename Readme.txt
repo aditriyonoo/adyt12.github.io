@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Ady T.
+Template URL: https://adyt12.github.io/
+Author: aditriyono.online
+License: https://aditriyono.online/license/
